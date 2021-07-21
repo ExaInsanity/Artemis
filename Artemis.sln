@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31512.422
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis", "Artemis\Artemis.csproj", "{74BA2D5D-9BCE-46F3-9A52-57849319B93A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis", "Artemis\Artemis.csproj", "{8789F1AE-6208-4B3B-B961-60EA31A217BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74BA2D5D-9BCE-46F3-9A52-57849319B93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74BA2D5D-9BCE-46F3-9A52-57849319B93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74BA2D5D-9BCE-46F3-9A52-57849319B93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74BA2D5D-9BCE-46F3-9A52-57849319B93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8789F1AE-6208-4B3B-B961-60EA31A217BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8789F1AE-6208-4B3B-B961-60EA31A217BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8789F1AE-6208-4B3B-B961-60EA31A217BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8789F1AE-6208-4B3B-B961-60EA31A217BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7ADC1789-3752-4592-810D-73D2554A9DC9}
+		SolutionGuid = {BC466535-C77E-4350-B276-9D1B4897BAF0}
 	EndGlobalSection
 EndGlobal
